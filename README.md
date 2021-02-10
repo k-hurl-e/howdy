@@ -6,3 +6,5 @@ Move cursor around to draw. Hold down mouse to alter the image.
 
 ## View
 See the project live [here](https://keenan-h.github.io/howdy/).
+
+![Screenshot](screenshot.png)
