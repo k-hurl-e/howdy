@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#sketch-holder {
+    position: absolute;
+    z-index: -1;
+}
+
+#howdy {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    font-size: 94pt;
+    font-family: Helvetica;
+    z-index: 2;
+}
+
+p {
+    position: absolute;
+    top: 95%;
+    left: 90%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    font-size: 12pt;
+    font-family: Helvetica;
+    z-index: 2;
+}
