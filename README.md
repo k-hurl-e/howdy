@@ -5,6 +5,6 @@ A simple sketch exploring drawing with an image using [p5.js](https://p5js.org/)
 Move cursor around to draw. Hold down mouse to alter the image.
 
 ## View
-See the project live [here](https://keenan-h.github.io/howdy/).
+See the project live [here](https://k-hurl-e.github.io/howdy/).
 
 ![Screenshot](screenshot.png)
